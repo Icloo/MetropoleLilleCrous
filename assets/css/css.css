@@ -86,7 +86,7 @@ body {
 
 .fermer {
     
-    width: 20vw;
+    width: 10vw;
     position: relative;
 }
 
@@ -202,8 +202,8 @@ a:visited {
         width: 100vw;
         height: 20vh;
         padding: 0 0 0 0rem;
-        margin-top: 25%;
-        margin-bottom: 10%;
+        margin-top: 5vh;
+        margin-bottom: 2vh;
     }
 
 
@@ -212,7 +212,7 @@ a:visited {
         margin-bottom: 0vh;
         padding-left: 2vw;
         padding-right: 2vw;
-        padding-top: 0vh;
+        padding-top: 2vh;
         padding-bottom: 0vh;
     }
 
