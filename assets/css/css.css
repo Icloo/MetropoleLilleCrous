@@ -100,7 +100,7 @@ body {
 }
 
 #croixfermer:hover {
-    transform: translate(-1px,-1px);
+    transform: translate(-1.1px,-1.1px);
     
 }
 
@@ -121,7 +121,6 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-   
 }
 
 #carte:hover {
