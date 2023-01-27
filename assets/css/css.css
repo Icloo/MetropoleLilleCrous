@@ -22,7 +22,7 @@ body {
     z-index: 999;
     background: #F27373;
     display: flex;
-    
+   
 }
 
 .emplacementphoto {
@@ -100,7 +100,7 @@ body {
 }
 
 #croixfermer:hover {
-    transform: translate(-1.1px,-1.1px);
+    transform: translate(-1px,-1px);
     
 }
 
@@ -176,10 +176,10 @@ a:visited {
     z-index: 999;
     background: #F27373;
     display: flex;
-    
+    border-bottom: 2px solid white;
 }
 
-@media only screen and (max-width: 993px) {
+@media only screen and (max-width: 992px) {
 
     #restau {
         display : flex;
@@ -187,13 +187,14 @@ a:visited {
         height: 80vh;
         width: 100vw;
         overflow: scroll;
-        bottom: 15vh;
+       
     }
 
     #restaufav {
         display: flex;
         flex-direction: column-reverse;
         overflow: scroll;
+        
         
     }
 
