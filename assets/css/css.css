@@ -13,6 +13,7 @@ body {
 
 .tout {
     width: 100vw;
+    height: 100vh;
 }
 
 #restau {
@@ -178,7 +179,7 @@ a:visited {
     
 }
 
-@media only screen and (max-width: 992px) {
+@media only screen and (max-width: 993px) {
 
     #restau {
         display : flex;
