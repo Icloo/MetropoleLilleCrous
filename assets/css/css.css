@@ -1,3 +1,5 @@
+
+
 body {
     margin: 0;
     padding: 0;
@@ -100,7 +102,7 @@ body {
 }
 
 #croixfermer:hover {
-    transform: translate(-1.1px,-1.1px);
+    transform: translate(-1px,-1px);
     
 }
 
@@ -121,6 +123,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+   
 }
 
 #carte:hover {
@@ -238,7 +241,6 @@ a:visited {
         padding-bottom: 1vh;
         font-family: 'Knewave';
     }
-
  
     .fermer {
         width: 100vw;
@@ -258,15 +260,15 @@ a:visited {
 
     .bandeau {
         display: flex;
-        height: 10vh;
+        height: 20vh;
      
         
     }
 
-    /* .tout {
+     .tout {
         height: 100vh;
         width: 100vw;
-    } */
+    } 
 
     p {
         overflow: auto;
