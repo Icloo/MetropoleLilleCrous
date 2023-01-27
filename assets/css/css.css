@@ -81,7 +81,7 @@ body {
 #boutonenregistrer:hover {
     background-color: #A94A4A;
     color: white;
-    transform: translate(-1px,-1px);
+    transform: translate(-1.1px,-1.1px);
     box-shadow: 0px 16px 16px rgba(0, 0, 0, 0.50);
     transition: all 0.5s;
 }
@@ -102,7 +102,7 @@ body {
 }
 
 #croixfermer:hover {
-    transform: translate(-1px,-1px);
+    transform: translate(-1.1px,-1.1px);
     
 }
 
