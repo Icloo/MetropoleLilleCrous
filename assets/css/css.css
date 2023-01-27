@@ -60,7 +60,7 @@ body {
 }
 
 #boutonenregistrer {
-    position: absolute;
+    position: relative;
     top: 3vh;
     border-radius: 5px;
     color: #A94A4A;
